@@ -24,7 +24,7 @@ Hey there! I'm **Sadbin**, a passionate Computer Science & Engineering student o
 - 🤝 Open to collaborations and learning opportunities
 
 ### ⚡ Fun Facts
-- 🧮 Mastered **18 courses** across Mathematics, Physics, and Computer Science
+- 🧮 Mastered **28 courses** across Mathematics, Physics, and Computer Science
 - 🔥 Love turning coffee into code ☕➡️💻
 - 🐧 Linux enthusiast who believes in the power of open source
 - 🎮 When not coding, you'll find me exploring new technologies
@@ -35,51 +35,68 @@ Hey there! I'm **Sadbin**, a passionate Computer Science & Engineering student o
 ## 🎓 Academic Arsenal
 
 <details>
-<summary>📊 <b>Complete Academic Journey</b> (Click to expand)</summary>
+<summary>📊 <b>Complete Academic Journey - 28 Completed Courses</b> (Click to expand)</summary>
 
-### 🧮 **Mathematics Mastery** `18 Credits`
+### 🧮 **Mathematics (MAT)**
 ```
-✅ MAT1102 – Differential Calculus & Co-ordinate Geometry
-✅ MAT1205 – Integral Calculus & Ordinary Differential Equations  
+✅ MAT1102 – Differential Calculus & Co-ordinate Geometry 
+✅ MAT1205 – Integral Calculus & Ordinary Differential Equations
 ✅ MAT2101 – Complex Variable, Laplace & Z-Transformation
 ✅ MAT2202 – Matrices, Vectors, Fourier Analysis
 ✅ MAT3101 – Numerical Methods for Science and Engineering
 ✅ MAT3103 – Computational Statistics and Probability
 ```
 
-### ⚡ **Physics Foundations** `8 Credits`
+### ⚡ **Physics (PHY)**
 ```
-✅ PHY1101 – Physics 1 + Lab
-✅ PHY1203 – Physics 2 + Lab
-```
-
-### 💻 **Computer Science Core** `21 Credits`
-```
-✅ CSC1102 – Introduction to Programming + Lab
-✅ CSC1204 – Discrete Mathematics
-✅ CSC1205 – Object Oriented Programming 1
-✅ CSC2106 – Data Structure + Lab
-✅ CSC2108 – Introduction to Database
-✅ CSC2209 – Object Oriented Analysis and Design
-✅ CSC2210 – Object Oriented Programming 2
+✅ PHY1101 – Physics 1
+✅ PHY1102 – Physics 1 Lab
+✅ PHY1203 – Physics 2
+✅ PHY1204 – Physics 2 Lab
 ```
 
-### ⚙️ **Engineering Essentials** `8 Credits`
+### 🗣️ **English (ENG)**
 ```
-✅ COE2101 – Introduction to Electrical Circuits + Lab
-✅ EEE2103 – Electronic Devices + Lab
-✅ EEE3101 – Digital Logic and Circuits + Lab
-```
-
-### 🌐 **Communication & Business** `11 Credits`
-```
-✅ ENG1101 – English Reading Skills & Public Speaking
+✅ ENG1101 – English Reading Skills & Public Speaking 
 ✅ ENG1202 – English Writing Skills & Communications
 ✅ ENG2103 – Business Communication
-✅ BBA1102 – Principles of Accounting
-✅ ECO3150 – Principles of Economics
 ```
 
+### 💻 **Computer Science (CSC)**
+```
+✅ CSC1101 – Introduction to Computer Studies
+✅ CSC1102 – Introduction to Programming
+✅ CSC1103 – Introduction to Programming Lab
+✅ CSC1204 – Discrete Mathematics
+✅ CSC1205 – Object Oriented Programming 1 (Lab)
+✅ CSC2106 – Data Structure
+✅ CSC2107 – Data Structure Lab
+✅ CSC2108 – Introduction to Database (Lab)
+✅ CSC2209 – Object Oriented Analysis and Design
+✅ CSC2210 – Object Oriented Programming 2 (Lab)
+```
+
+### ⚙️ **Computer Engineering (COE)**
+```
+✅ COE2101 – Introduction to Electrical Circuits
+✅ COE2102 – Introduction to Electrical Circuits Lab
+```
+
+### ⚡ **Electrical & Electronics Engineering (EEE)**
+```
+✅ EEE2103 – Electronic Devices
+✅ EEE2104 – Electronic Devices Lab
+✅ EEE3101 – Digital Logic and Circuits
+✅ EEE3102 – Digital Logic and Circuits Lab
+```
+
+### 🌐 **Other Disciplines**
+```
+✅ CHEM1101 – Chemistry
+✅ BBA1102 – Principles of Accounting
+✅ BAS2101 – Bangladesh Studies
+✅ ECO3150 – Principles of Economics
+```
 </details>
 
 ---
@@ -169,16 +186,6 @@ Hey there! I'm **Sadbin**, a passionate Computer Science & Engineering student o
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sadbin47&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadbin47&layout=compact&langs_count=8&theme=tokyonight&count_private=true"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Sadbin47/Sadbin47/output/github-contribution-grid-snake.svg)
 
 </div>
 
