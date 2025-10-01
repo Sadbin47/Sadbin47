@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-> *"Code is poetry written in logic"* 
+> *"Someday, It Will Happen"* 
 
 Hey there! I'm **Sadbin**, a passionate Computer Science & Engineering student on an exciting journey to master the art of programming and problem-solving. Currently pursuing my **BSc in CSE**, I believe in learning by doing and building solutions that matter.
 
@@ -35,7 +35,7 @@ Hey there! I'm **Sadbin**, a passionate Computer Science & Engineering student o
 ## 🎓 Academic Arsenal
 
 <details>
-<summary>📊 <b>Complete Academic Journey - 28 Completed Courses</b> (Click to expand)</summary>
+<summary>📊 <b>Complete Academic Journey(Running)</b> (Click to expand)</summary>
 
 ### 🧮 **Mathematics (MAT)**
 ```
@@ -227,6 +227,6 @@ Hey there! I'm **Sadbin**, a passionate Computer Science & Engineering student o
 
 <div align="center">
 
-*Last updated: October 2025*
+*Last updated: 1 October 2025*
 
 </div>
