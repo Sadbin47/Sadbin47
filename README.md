@@ -1,5 +1,6 @@
 <div align="center">
 #  ✨ Welcome ✨
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=BSc+in+Computer+Science+%26+Engineering;Problem+Solver+%7C+Code+Enthusiast)](https://git.io/typing-svg)
 </div>
 ---
