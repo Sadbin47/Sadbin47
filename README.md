@@ -1,34 +1,18 @@
 <div align="center">
-
-#  Welcome! 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=BSc+in+Computer+Science+%26+Engineering;Problem+Solver+%7C+Code+Enthusiast;Building+Tomorrow's+Solutions+Today!)](https://git.io/typing-svg)
-
+#  ✨ Welcome ✨
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=BSc+in+Computer+Science+%26+Engineering;Problem+Solver+%7C+Code+Enthusiast)](https://git.io/typing-svg)
 </div>
-
 ---
-
-## 👨‍💻 About Me
-
 > *"Someday, It Will Happen"* 
-
 Hey there! I'm **Sadbin**, a passionate Computer Science & Engineering student on an exciting journey to master the art of programming and problem-solving. Currently pursuing my **BSc in CSE**, I believe in learning by doing and building solutions that matter.
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### 🎯 Current Mission
-- 📚 Pursuing **BSc in Computer Science & Engineering**
-- 🌱 Exploring advanced algorithms and system design
-- 💡 Building innovative projects that solve real-world problems
-- 🐧 Passionate about **Linux** and open-source technologies
-- 🤝 Open to collaborations and learning opportunities
-
 ### ⚡ Fun Facts
-- 🧮 Mastered **28 courses** across Mathematics, Physics, and Computer Science
-- 🔥 Love turning coffee into code ☕➡️💻
-- 🐧 Linux enthusiast who believes in the power of open source
-- 🎮 When not coding, you'll find me exploring new technologies
-- 📈 Always optimizing - both code and life!
+🚀 Passionate about Open Source, Linux, Coding, Configuring and Theming!
+💻 BSc in CSE Student | Exploring Programming
+🎨 Linux Enthusiast
+🎶 Vibing to Music
 
 ---
 
@@ -179,29 +163,21 @@ Hey there! I'm **Sadbin**, a passionate Computer Science & Engineering student o
 </div>
 
 ---
-
-## 📊 GitHub Analytics
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=3157ijsaj2acnmiudeztva6bf72e&width=350" alt="Spotify recently played" />
+---
+## Stats
 
 <div align="center">
+  
+![Sadbin47's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadbin47&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sadbin47&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadbin47&layout=compact&langs_count=8&theme=tokyonight&count_private=true"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sadbin47&theme=radical&hide_border=true&background=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadbin47&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 </div>
 
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Sadbin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sadbin47&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🤝 Let's Connect!
 
 <div align="center">
 
