@@ -174,7 +174,7 @@ Hey there! I'm **Sadbin**, a passionate Computer Science & Engineering student o
 
 <div align="center">
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=3157ijsaj2acnmiudeztva6bf72e&width=350" alt="Spotify recently played" />
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/3157ijsaj2acnmiudeztva6bf72e)
 
 </div>
 
