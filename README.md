@@ -171,11 +171,8 @@ Hey there! I'm **Sadbin**, a passionate Computer Science & Engineering student o
 ---
 
 ## Spotify
-
 <div align="center">
-
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/3157ijsaj2acnmiudeztva6bf72e)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3157ijsaj2acnmiudeztva6bf72e&cover_image=true&theme=compact&show_offline=false&background_color=121212)](https://open.spotify.com/user/3157ijsaj2acnmiudeztva6bf72e)
 </div>
 
 ---
