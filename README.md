@@ -20,7 +20,7 @@ Hey there! I'm **Sadbin**, a passionate Computer Science & Engineering student o
 
 ---
 <div align="center">
-##  Project Showcase
+**Project Showcase**
 </div>
 <div align="center">
 
@@ -62,8 +62,9 @@ Hey there! I'm **Sadbin**, a passionate Computer Science & Engineering student o
 </table>
 
 ---
-
-## 🛠️ Tech Stack & Tools
+<div align="center">
+**Tech Stack & Tools**
+</div>
 
 <div align="center">
 
