@@ -13,15 +13,15 @@
 Hey there! I'm **Sadbin**, a passionate Computer Science & Engineering student on an exciting journey to master the art of programming and problem-solving. Currently pursuing my **BSc in CSE**, I believe in continuous learning and turning ideas into reality through code.
 
 ### ⚡ Fun Facts
-🚀 Passionate about Open Source, Linux, Coding, Configuring, and Theming!
-💻 BSc in CSE Student | Exploring Programming
-🎨 Linux Enthusiast
-🎶 Vibing to Music
+- 🌲 Passionate about Open Source, Linux, Coding, Configuring, and Theming!
+- 💻 BSc in CSE Student | Exploring Programming
+- 🎨 Linux Enthusiast
+- 🎶 Vibing to Music
 
 ---
-
-## 🚀 Project Showcase
-
+<div align="center">
+##  Project Showcase
+</div>
 <div align="center">
 
 ### 🏆 **Featured Repositories**
