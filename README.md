@@ -22,75 +22,6 @@ Hey there! I'm **Sadbin**, a passionate Computer Science & Engineering student o
 
 ---
 
-## 🎓 Academic Arsenal
-
-<details>
-<summary>📊 <b>Complete Academic Journey(Running)</b> (Click to expand)</summary>
-
-### 🧮 **Mathematics (MAT)**
-```
-✅ MAT1102 – Differential Calculus & Co-ordinate Geometry 
-✅ MAT1205 – Integral Calculus & Ordinary Differential Equations
-✅ MAT2101 – Complex Variable, Laplace & Z-Transformation
-✅ MAT2202 – Matrices, Vectors, Fourier Analysis
-✅ MAT3101 – Numerical Methods for Science and Engineering
-✅ MAT3103 – Computational Statistics and Probability
-```
-
-### ⚡ **Physics (PHY)**
-```
-✅ PHY1101 – Physics 1
-✅ PHY1102 – Physics 1 Lab
-✅ PHY1203 – Physics 2
-✅ PHY1204 – Physics 2 Lab
-```
-
-### 🗣️ **English (ENG)**
-```
-✅ ENG1101 – English Reading Skills & Public Speaking 
-✅ ENG1202 – English Writing Skills & Communications
-✅ ENG2103 – Business Communication
-```
-
-### 💻 **Computer Science (CSC)**
-```
-✅ CSC1101 – Introduction to Computer Studies
-✅ CSC1102 – Introduction to Programming
-✅ CSC1103 – Introduction to Programming Lab
-✅ CSC1204 – Discrete Mathematics
-✅ CSC1205 – Object Oriented Programming 1 (Lab)
-✅ CSC2106 – Data Structure
-✅ CSC2107 – Data Structure Lab
-✅ CSC2108 – Introduction to Database (Lab)
-✅ CSC2209 – Object Oriented Analysis and Design
-✅ CSC2210 – Object Oriented Programming 2 (Lab)
-```
-
-### ⚙️ **Computer Engineering (COE)**
-```
-✅ COE2101 – Introduction to Electrical Circuits
-✅ COE2102 – Introduction to Electrical Circuits Lab
-```
-
-### ⚡ **Electrical & Electronics Engineering (EEE)**
-```
-✅ EEE2103 – Electronic Devices
-✅ EEE2104 – Electronic Devices Lab
-✅ EEE3101 – Digital Logic and Circuits
-✅ EEE3102 – Digital Logic and Circuits Lab
-```
-
-### 🌐 **Other Disciplines**
-```
-✅ CHEM1101 – Chemistry
-✅ BBA1102 – Principles of Accounting
-✅ BAS2101 – Bangladesh Studies
-✅ ECO3150 – Principles of Economics
-```
-</details>
-
----
-
 ## 🚀 Project Showcase
 
 <div align="center">
@@ -162,19 +93,8 @@ Hey there! I'm **Sadbin**, a passionate Computer Science & Engineering student o
 ### **Tools & IDEs**
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 🎧 Spotify
-
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/3157ijsaj2acnmiudeztva6bf72e)
 
 </div>
 
@@ -196,17 +116,7 @@ Hey there! I'm **Sadbin**, a passionate Computer Science & Engineering student o
 
 <div align="center">
 
-### 💬 **"Great things are built by great teams. Let's build something amazing together!"**
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sadbin47)
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 **"Code. Learn. Grow. Repeat."** 🌟
+### **Git Reset --Hard**
 
 *Thanks for visiting my profile! Don't forget to ⭐ star repositories you find interesting!*
 
@@ -218,6 +128,6 @@ Hey there! I'm **Sadbin**, a passionate Computer Science & Engineering student o
 
 <div align="center">
 
-*Last updated: 2 October 2025*
+*Last updated: 13 Jan 2026*
 
 </div>
