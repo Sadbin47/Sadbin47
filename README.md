@@ -19,9 +19,8 @@ Hey there! I'm **Sadbin**, a passionate Computer Science & Engineering student o
 - 🎶 Vibing to Music
 
 ---
-<div align="center">
-**Project Showcase**
-</div>
+<h1 align="center">Project Showcase &amp; Tools</h1>
+
 <div align="center">
 
 ### 🏆 **Featured Repositories**
@@ -62,9 +61,7 @@ Hey there! I'm **Sadbin**, a passionate Computer Science & Engineering student o
 </table>
 
 ---
-<div align="center">
-**Tech Stack & Tools**
-</div>
+<h1 align="center">Tech Stack &amp; Tools</h1>
 
 <div align="center">
 
