@@ -12,10 +12,8 @@
 
 Hey there! I'm **Sadbin**, a passionate Computer Science & Engineering student on an exciting journey to master the art of programming and problem-solving. Currently pursuing my **BSc in CSE**, I believe in continuous learning and turning ideas into reality through code.
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 ### ⚡ Fun Facts
-🚀 Passionate about Open Source, Linux, Coding, Configuring and Theming!
+🚀 Passionate about Open Source, Linux, Coding, Configuring, and Theming!
 💻 BSc in CSE Student | Exploring Programming
 🎨 Linux Enthusiast
 🎶 Vibing to Music
@@ -95,20 +93,6 @@ Hey there! I'm **Sadbin**, a passionate Computer Science & Engineering student o
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 📊 Stats
-
-<div align="center">
-  
-![Sadbin47's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadbin47&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sadbin47&theme=radical&hide_border=true&background=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadbin47&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 </div>
 
