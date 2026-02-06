@@ -1,6 +1,6 @@
 <hr />
 
-> *"Someday, It Will Happen"*
+*"Someday, It Will Happen"*
 ### About Me
 - 🎓 **3rd Year Computer Science & Engineering Student**
 - 🐧 Passionate about **Open Source, Linux, Coding, Configuring, and Theming!**
@@ -9,7 +9,6 @@
 ### Socials
 **Discord:** `@im_too_sad` &nbsp;|&nbsp; **Reddit:** `u/Cool-Persimmon-8387`
 
----
 ### Languages and Tools
 <div align="left">
 
