@@ -1,10 +1,10 @@
 <hr />
-
 *"Someday, It Will Happen"*
+<hr />
 ### About Me
-- 🎓 **3rd Year Computer Science & Engineering Student**
-- 🐧 Passionate about **Open Source, Linux, Coding, Configuring, and Theming!**
-- 💻 **VS Code** Enjoyer & Vibing to Music 🎧
+- **3rd Year Computer Science & Engineering Student**
+- Passionate about **Open Source, Linux, Coding, Configuring, and Theming!**
+- **VS Code** Enjoyer & Vibing to Music 🎧
 
 ### Socials
 **Discord:** `@im_too_sad` &nbsp;|&nbsp; **Reddit:** `u/Cool-Persimmon-8387`
