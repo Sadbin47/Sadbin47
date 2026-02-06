@@ -1,6 +1,5 @@
-<hr />
 *"Someday, It Will Happen"*
-<hr />
+
 ### About Me
 - **3rd Year Computer Science & Engineering Student**
 - Passionate about **Open Source, Linux, Coding, Configuring, and Theming!**
