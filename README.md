@@ -1,6 +1,7 @@
 <hr />
 
-> *"Someday, It Will Happen"* ### About Me
+> *"Someday, It Will Happen"*
+### About Me
 - 🎓 **3rd Year Computer Science & Engineering Student**
 - 🐧 Passionate about **Open Source, Linux, Coding, Configuring, and Theming!**
 - 💻 **VS Code** Enjoyer & Vibing to Music 🎧
@@ -9,7 +10,7 @@
 **Discord:** `@im_too_sad` &nbsp;|&nbsp; **Reddit:** `u/Cool-Persimmon-8387`
 
 ---
-
+### Languages and Tools
 <div align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="Arch" width="28" height="28" />
