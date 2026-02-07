@@ -9,27 +9,28 @@
 **Discord:** `@im_too_sad` &nbsp;|&nbsp; **Reddit:** `u/Cool-Persimmon-8387`
 
 ### Languages and Tools
-<div align="left">
-
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="25" />
-  
-  <br />
-
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" />
-
-  <br />
-
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/WinForms-1976D2?style=for-the-badge&logo=visual-studio&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="25" />
-
-</div>
+<table>
+  <tr>
+    <td width="80" align="center"><b>OS</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=arch,ubuntu,windows" />
+    </td>
+  </tr>
+  <tr>
+    <td width="80" align="center"><b>Langs</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=cpp,cs,java,py" />
+    </td>
+  </tr>
+  <tr>
+    <td width="80" align="center"><b>Stack</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=dotnet,mysql" />
+      <img src="https://img.shields.io/badge/WinForms-0078D4?style=flat&logo=windows&logoColor=white" height="36" />
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white" height="36" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
