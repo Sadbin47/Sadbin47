@@ -25,7 +25,7 @@
   <br /> <br />
   <img src="https://skillicons.dev/icons?i=dotnet,mysql,visualstudio,vscode" height="28" alt="tech stack" />
   <img width="6" /> 
-  <img src="https://avatars.githubusercontent.com/u/1286246?s=200&v=4" height="28" alt="codeblocks"/>
+  <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/codeblocks-icon.png" height="28" alt="codeblocks"/>
 </div>
 
 <br>
