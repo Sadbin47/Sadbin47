@@ -6,7 +6,7 @@
 - **VS Code** Enjoyer & Vibing to Music
 
 ### Socials
-**Discord:** `@im_too_sad` &nbsp;|&nbsp; **Reddit:** `u/Cool-Persimmon-8387`
+**Discord:** `@im_too_sad` &nbsp;|&nbsp; **LinkedIn:** [sadbin-hossain](https://www.linkedin.com/in/sadbin-hossain-471692353/)
 
 ### Languages and Tools
 <div align="left"> 
